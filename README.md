@@ -69,22 +69,4 @@ faciale.py: Contient la logique métier de la reconnaissance faciale et l'interf
 attendance.json: Fichier où les présences sont enregistrées.
 pin_database.json: Base de données des PIN associés à chaque personne.
 
-
-#### Étape 3 : Création et Publication sur GitHub
-
-1.  **Créez un nouveau dépôt sur GitHub :**
-    *   Nom : `Smart-Attendance-System-Face-Recognition`
-    *   Description : `Système de gestion de présence utilisant la reconnaissance faciale en temps réel avec Python, Dlib et PyQt5. Inclut l'enregistrement de nouveaux utilisateurs, une sécurité par PIN et une évaluation de performance.`
-    *   Laissez-le **Public** et **vide**.
-
-2.  **Envoyez votre projet local sur GitHub :**
-    Ouvrez un terminal dans votre dossier `Smart-Attendance-System-Face-Recognition`.
-
-    *   `git init`
-    *   `git add .`
-    *   `git commit -m "Initial commit: Add Smart Attendance System project"`
-    *   `git branch -M main`
-    *   `git remote add origin https://github.com/VOTRE_NOM_UTILISATEUR/Smart-Attendance-System-Face-Recognition.git`
-    *   `git push -u origin main`
-
 Ce projet est d'un excellent calibre et cette présentation le mettra vraiment en valeur sur votre profil GitHub. Il démontre des compétences très recherchées en vision par ordinateur, en développement logiciel et en analyse de données.
