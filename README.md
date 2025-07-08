@@ -57,9 +57,9 @@ _L'interface affichant les visages reconnus dans l'image et demandant le nom pou
   ```bash
   python interfaceAPP.py
 
-  Pour utiliser l'interface en ligne de commande (CLI) :
-
-python faciale.py --input Dataset
+- ** Pour utiliser l'interface en ligne de commande (CLI) :**
+  ```bash
+  python faciale.py --input Dataset
 
 📂 Structure du Projet
 interfaceAPP.py: Point d'entrée de l'application graphique (PyQt5).
