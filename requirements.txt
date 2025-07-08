@@ -1,0 +1,10 @@
+opencv-python
+dlib
+Pillow
+numpy
+imutils
+scikit-learn
+matplotlib
+seaborn
+pandas
+PyQt5

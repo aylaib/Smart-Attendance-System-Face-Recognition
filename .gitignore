@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Fichiers de log et de sortie
+facial_recognition.log
+
+# IDE
+.idea/
+.vscode/
+
+# Optionnel: Si les modèles sont trop lourds pour GitHub (recommandé)
+# pretrained_model/
