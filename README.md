@@ -46,11 +46,10 @@ _L'interface affichant les visages reconnus dans l'image et demandant le nom pou
     ```
 
 2.  **Modèles Pré-entraînés de Dlib :**
-    Ce projet nécessite les fichiers de modèle de `dlib`. Assurez-vous que le dossier `pretrained_model` est présent à la racine du projet et contient les fichiers suivants :
+    Ce projet nécessite les fichiers de modèle de `dlib`.
     - `dlib_face_recognition_resnet_model_v1.dat`
     - `shape_predictor_68_face_landmarks.dat`
     - `shape_predictor_5_face_landmarks.dat`
-    *(Si ces fichiers ne sont pas inclus dans le dépôt en raison de leur taille, vous devrez les télécharger séparément).*
 
 ### Lancement de l'Application
 
