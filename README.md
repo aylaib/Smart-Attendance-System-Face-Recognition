@@ -170,6 +170,10 @@ The system includes advanced performance evaluation capabilities:
 - **PyQt5** for the user-friendly GUI framework
 - **Scikit-learn** for machine learning evaluation tools
 
+## 📌 Citation
+If you use this project, please cite it as:
+
+Ayoub Laib (2025), *Facial Recognition Attendance Management System*, GitHub repository: https://github.com/ayoublaib/facial-recognition-attendance
 
 ---
 
