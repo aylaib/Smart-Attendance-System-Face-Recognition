@@ -163,10 +163,6 @@ The system includes advanced performance evaluation capabilities:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Dlib** for providing excellent facial recognition algorithms
@@ -174,9 +170,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **PyQt5** for the user-friendly GUI framework
 - **Scikit-learn** for machine learning evaluation tools
 
-## 📞 Support
-
-For support, email your-email@example.com or create an issue in the GitHub repository.
 
 ---
 
